@@ -1,0 +1,1 @@
+compile: gcc -lncurses -lpthread
